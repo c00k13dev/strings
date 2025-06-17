@@ -1,2 +1,7 @@
 prestige
 zprestige
+Prestige Loader
+https://raw.githubusercontent.com/c00k13dev/strings/refs/heads/main/prestige.txt
+C:\Users\Nevza\AppData\Local\Microsoft\Windows\INetCache\IE\KVPYODXZ\prestige[1].txt
+\??\C:\Users\Nevza\AppData\Local\Microsoft\Windows\INetCache\IE\KVPYODXZ\prestige[1].txt
+prestige[1].txt
