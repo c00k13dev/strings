@@ -1,26 +1,25 @@
-(?i)prestige
-(?i)zprestige
-(?i)Prestige Loader
-(?i)https://raw\.githubusercontent\.com/c00k13dev/strings/refs/heads/main/prestige\.txt
-(?i)C:\\Users\\Nevza\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\KVPYODXZ\\prestige\[1\]\.txt
-(?i)\\\?\?\\C:\\Users\\Nevza\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\KVPYODXZ\\prestige\[1\]\.txt
-(?i)prestige\[1\]\.txt
-(?i)prestigeclient\.vip
-(?i)api\.prestigeclient\.vip
-(?i)\*\.prestigeclient\.vip
-(?i)/client/Prestige
-(?i)/loader/PrestigeClient\.class
-(?i)prestigeI
-(?i)\.client\.Prestige
-(?i)Prestige Loader
-(?i)Host: api\.prestigeclient\.vip
-(?i)Prestige_1_21-refmap\.json
-(?i)'1"yAV9986<F9nt\.Prestige
-(?i)method_45581ent/Prestige\.class
-(?i)/client/Prestige\.class
-(?i)lambda\$raycast\$0Prestige\.class
-(?i)\[\[Prestige\.class
-(?i)Prestige\.class
-(?i)longs7547prestige/
-(?i)longs9168client\.Prestige
-(?i)longs9143client\.Prestige
+prestige
+zprestige
+prestige loader
+https://raw.githubusercontent.com/c00k13dev/strings/refs/heads/main/prestige.txt
+\AppData\Local\Microsoft\Windows\INetCache\IE\KVPYODXZ\prestige[1].txt
+prestige[1].txt
+prestigeclient.vip
+api.prestigeclient.vip
+*.prestigeclient.vip
+/client/prestige
+/loader/prestigeclient.class
+prestigei
+.client.prestige
+prestige loader
+host: api.prestigeclient.vip
+prestige_1_21-refmap.json
+'1"yav9986<f9nt.prestige
+method_45581ent/prestige.class
+/client/prestige.class
+lambda$raycast$0prestige.class
+[[prestige.class
+prestige.class
+longs7547prestige/
+longs9168client.prestige
+longs9143client.prestige
