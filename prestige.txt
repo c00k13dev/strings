@@ -23,5 +23,25 @@ longs7547prestige/
 longs9168client.prestige
 longs9143client.prestige
 assets/prestige/
+assets/prestige
 /prestige/
 .prestige.
+/prestige
+client/Prestige
+client/Prestigeso
+client/PrestigeR]
+M<client/PrestigeH
+prestige.accesswidener
+prestige.accesswidenerPK
+client.Prestige
+Prestige Loader
+attachment;filename=prestige.jar
+loader/PrestigeClient;
+Prestige.class
+Prestige.javat/class_5321;)Ljava/util/Opti
+Prestige.java
+/prestige
+longs9144client.Prestige
+prestige.accesswidener
+prestige.mixins.json
+*.prestigeclient.vi^
