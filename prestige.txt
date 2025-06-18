@@ -22,3 +22,6 @@ prestige.class
 longs7547prestige/
 longs9168client.prestige
 longs9143client.prestige
+assets/prestige/
+/prestige/
+.prestige.
