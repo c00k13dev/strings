@@ -4,3 +4,4 @@ prestige
 prestige-installer
 .jar
 @file
+Nevza@file
